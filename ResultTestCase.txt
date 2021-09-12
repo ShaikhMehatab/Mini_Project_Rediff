@@ -1,0 +1,15 @@
+Module_Name-Login
+Test_Result-Login Is Successful
+Comments-User Successfully Logged In
+Module_name-Creating Portfolio
+Test_Result-Creating Portfolio Successful
+Comments-User Successfully Created Portfolio
+Comments-1. Large Cap Stock Is Already Exist
+ 2. Mutual Stock Is Already Exist
+ 3. Mid Cap Stock Is Already Exist
+ 4. Hybrid Stock Is Already Exist
+ 5. Growth Stock Is Already Exist
+ 6. Income Stock Is Already Exist
+ 7. Small Stock Is Already ExistComments-8. iBeta Stock Is Already Exist
+ 9. Domestic Stock Is Already Exist
+ 10. Preffered Stock Is Already Exist

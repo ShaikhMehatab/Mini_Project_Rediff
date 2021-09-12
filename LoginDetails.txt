@@ -1,0 +1,13 @@
+************Appliction URL*************
+
+rAppURL=https://money.rediff.com/index.html
+
+
+************UserId*****************
+
+UserId=rorytemp098@gmail.com
+
+
+***********UserPassword************
+
+UserPassword=P@ssword
